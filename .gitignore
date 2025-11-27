@@ -2,7 +2,9 @@
 *.exe
 *.out
 program
+*/program
 library_test
+*/library_test
 
 # Object files
 *.o
@@ -24,7 +26,6 @@ lib/
 CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
-Makefile
 *.cmake
 
 # IDE files
